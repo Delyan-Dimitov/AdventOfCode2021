@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOneProblemOne", "DayOneProblemOne\DayOneProblemOne.csproj", "{D8ACFD77-ABCA-4D99-851C-04E478E785FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DayOneProblemOne", "DayOneProblemOne\DayOneProblemOne.csproj", "{D8ACFD77-ABCA-4D99-851C-04E478E785FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOneProblemTwo", "DayOneProblemTwo\DayOneProblemTwo.csproj", "{F59869DF-AAE9-440D-A02A-14D70AE66604}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DayOneProblemTwo", "DayOneProblemTwo\DayOneProblemTwo.csproj", "{F59869DF-AAE9-440D-A02A-14D70AE66604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayTwoProblemTwo", "DayTwoProblemTwo\DayTwoProblemTwo.csproj", "{3AB7B7AC-4643-493A-B692-31AFDC817F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayTwoProblemOne", "DayTwoProblemOne\DayTwoProblemOne.csproj", "{052E0E6B-280E-4401-91BA-4E2684B19136}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{F59869DF-AAE9-440D-A02A-14D70AE66604}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F59869DF-AAE9-440D-A02A-14D70AE66604}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F59869DF-AAE9-440D-A02A-14D70AE66604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AB7B7AC-4643-493A-B692-31AFDC817F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB7B7AC-4643-493A-B692-31AFDC817F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB7B7AC-4643-493A-B692-31AFDC817F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB7B7AC-4643-493A-B692-31AFDC817F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{052E0E6B-280E-4401-91BA-4E2684B19136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052E0E6B-280E-4401-91BA-4E2684B19136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052E0E6B-280E-4401-91BA-4E2684B19136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052E0E6B-280E-4401-91BA-4E2684B19136}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
