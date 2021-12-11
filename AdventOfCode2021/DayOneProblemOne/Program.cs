@@ -8,7 +8,7 @@ namespace DayOneProblemOne
     {
         static void Main(string[] args)
         {
-            string inputRaw = File.ReadAllText(@"C:\Users\gunex\Desktop\AdventOfCode2021\AdventOfCode2021\Inputs\DayOnePartOne.txt");
+            string inputRaw = File.ReadAllText(@"C:\Users\gunex\Desktop\AdventOfCode2021\AdventOfCode2021\Inputs\DayOne.txt");
             int[] input = inputRaw.Split("\n", StringSplitOptions.RemoveEmptyEntries).Select(x => int.Parse(x)).ToArray();
 
             int largerMeasurements = 0;
