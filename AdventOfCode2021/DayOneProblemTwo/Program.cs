@@ -2,7 +2,7 @@
 using System.IO;
 using System.Linq;
 
-namespace Problem2
+namespace DayOneProblemTwo
 {
     class Program
     {
