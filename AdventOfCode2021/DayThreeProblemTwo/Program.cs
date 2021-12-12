@@ -47,6 +47,7 @@ namespace DayThreeProblemTwo
                         break;
                 }
             }
+
             bit = bitSumAtPosition != 0 ?
                 bitSumAtPosition < 0 ?
                 findMostCommon ? '0' : '1' :
